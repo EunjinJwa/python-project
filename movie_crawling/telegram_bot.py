@@ -1,6 +1,6 @@
 import telegram 
 
-bot = telegram.Bot(token='5057469943:AAEnqLxtpV5s3YcNdxcx0AfZ9dJ2RWuAoms')
+bot = telegram.Bot(token='5057469943:XXXXXXXXXX')
 
 # for i in bot.getUpdates():
 #     print(i.message)
